@@ -34,3 +34,5 @@ def get_loja():
     return jsonify ({'lojas': lojas})
     
 
+
+app.run()
